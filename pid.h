@@ -11,7 +11,6 @@ extern "C"
 {
 #endif
 
-
 #ifndef u8
 #define u8 unsigned char
 
